@@ -77,7 +77,7 @@ class noise_test(gr.top_block, Qt.QWidget):
         ##################################################
         # Variables
         ##################################################
-        self.samp_rate = samp_rate = 32000
+        self.samp_rate = samp_rate = 8192
         self.averaging = averaging = 100
 
         ##################################################
