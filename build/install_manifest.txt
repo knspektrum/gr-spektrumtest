@@ -5,7 +5,7 @@
 /usr/local/lib/libgnuradio-spektrumtest.so.1.0.0
 /usr/local/lib/libgnuradio-spektrumtest.so
 /usr/local/lib/cmake/gnuradio-spektrumtest/gnuradio-spektrumtestTargets.cmake
-/usr/local/lib/cmake/gnuradio-spektrumtest/gnuradio-spektrumtestTargets-release.cmake
+/usr/local/lib/cmake/gnuradio-spektrumtest/gnuradio-spektrumtestTargets-debug.cmake
 /usr/local/lib/cmake/gnuradio-spektrumtest/gnuradio-spektrumtestConfig.cmake
 /usr/local/lib/python3.10/site-packages/gnuradio/spektrumtest/__init__.py
 /usr/local/lib/python3.10/site-packages/gnuradio/spektrumtest/__init__.pyc

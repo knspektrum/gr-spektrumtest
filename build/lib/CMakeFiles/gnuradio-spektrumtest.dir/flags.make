@@ -6,5 +6,5 @@ CXX_DEFINES = -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -D
 
 CXX_INCLUDES = -I/home/ng/Pulpit/gr/gr-spektrumtest/lib/../include -isystem /usr/include/python3.10
 
-CXX_FLAGS =  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -O3 -DNDEBUG -fPIC -std=c++17
+CXX_FLAGS =  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -g -O2 -fPIC -std=c++17
 
