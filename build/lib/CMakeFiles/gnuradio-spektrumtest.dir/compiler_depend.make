@@ -171,7 +171,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
   /usr/include/bits/select.h \
   /usr/include/bits/types/sigset_t.h \
   /usr/include/alloca.h \
-  /usr/include/bits/stdlib-bsearch.h \
   /usr/include/bits/stdlib-float.h \
   /usr/include/c++/12.1.0/bits/std_abs.h \
   /usr/include/gnuradio/buffer_double_mapped.h \
@@ -213,7 +212,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
   /usr/include/bits/types/struct_FILE.h \
   /usr/include/bits/types/cookie_io_functions_t.h \
   /usr/include/bits/stdio_lim.h \
-  /usr/include/bits/stdio.h \
   /usr/include/c++/12.1.0/cerrno \
   /usr/include/errno.h \
   /usr/include/bits/errno.h \
@@ -1179,6 +1177,8 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 
 /usr/include/c++/12.1.0/bits/stl_map.h:
 
+/usr/include/boost/smart_ptr/weak_ptr.hpp:
+
 /usr/include/boost/smart_ptr/enable_shared_from_this.hpp:
 
 /usr/include/boost/thread/pthread/condition_variable_fwd.hpp:
@@ -1711,10 +1711,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 
 /usr/include/boost/format/detail/unset_macros.hpp:
 
-/usr/include/boost/any.hpp:
-
-/usr/include/boost/format/parsing.hpp:
-
 /usr/include/bits/iscanonical.h:
 
 /usr/include/c++/12.1.0/bits/hash_bytes.h:
@@ -1789,10 +1785,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 
 /usr/include/bits/getopt_posix.h:
 
-/usr/include/boost/smart_ptr/weak_ptr.hpp:
-
-/usr/include/bits/stdio.h:
-
 /usr/include/c++/12.1.0/streambuf:
 
 /usr/include/boost/predef/os/macos.h:
@@ -1840,6 +1832,8 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 /usr/include/c++/12.1.0/tr1/modified_bessel_func.tcc:
 
 /usr/include/boost/preprocessor/arithmetic/limits/dec_256.hpp:
+
+/usr/include/c++/12.1.0/tr1/exp_integral.tcc:
 
 /usr/include/gnuradio/thread/thread.h:
 
@@ -1946,8 +1940,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 /usr/include/boost/type_traits/is_same.hpp:
 
 /usr/include/c++/12.1.0/bits/node_handle.h:
-
-/usr/include/bits/stdlib-bsearch.h:
 
 /usr/include/bits/mathcalls-helper-functions.h:
 
@@ -2593,8 +2585,6 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 
 /usr/include/c++/12.1.0/bits/nested_exception.h:
 
-/usr/include/c++/12.1.0/tr1/exp_integral.tcc:
-
 /usr/include/c++/12.1.0/tr1/legendre_function.tcc:
 
 /usr/include/boost/preprocessor/variadic/has_opt.hpp:
@@ -3220,3 +3210,7 @@ lib/CMakeFiles/gnuradio-spektrumtest.dir/moving_average_filter_ff_impl.cc.o: ../
 /usr/include/c++/12.1.0/bits/postypes.h:
 
 /usr/include/boost/format/format_implementation.hpp:
+
+/usr/include/boost/any.hpp:
+
+/usr/include/boost/format/parsing.hpp:

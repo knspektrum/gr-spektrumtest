@@ -6,5 +6,5 @@ CXX_DEFINES = -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_PROGRA
 
 CXX_INCLUDES = -I/home/ng/Pulpit/gr/gr-spektrumtest/build/python/spektrumtest/bindings -I/home/ng/Pulpit/gr/gr-spektrumtest/python/spektrumtest/bindings/../../../lib -I/home/ng/Pulpit/gr/gr-spektrumtest/python/spektrumtest/bindings/../../../include -I/home/ng/Pulpit/gr/gr-spektrumtest/lib/../include -isystem /usr/include/python3.10 -isystem /usr/lib/python3.10/site-packages/numpy/core/include
 
-CXX_FLAGS =  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -g -O2 -fPIC -fvisibility=hidden -Wno-unused-variable -std=c++17
+CXX_FLAGS =  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -g -O2 -O0 -fPIC -fvisibility=hidden -Wno-unused-variable -std=c++17
 
